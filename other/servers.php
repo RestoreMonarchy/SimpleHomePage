@@ -2,29 +2,6 @@
 		error_reporting(0);
 		require_once('vendor\gameq\src\GameQ\Autoloader.php');
 		require_once('config.php');
-
-		$servers = [
-			[
-			'type'    => 'unturned',
-			'host'    => '46.242.129.202:27015',
-			],
-			[
-			'type'    => 'unturned',
-			'host'    => '46.242.129.202:27035',
-			],
-			[
-			'type'    => 'unturned',
-			'host'    => '46.242.129.202:27045',
-			],
-			[
-			'type'    => 'unturned',
-			'host'    => '46.242.129.202:27010',
-			],
-			[
-			'type'    => 'rust',
-			'host'    => '46.242.129.202:28015',
-			]
-		];
 	
 		$GameQ = new \GameQ\GameQ();
 		$GameQ->addServers($servers);
