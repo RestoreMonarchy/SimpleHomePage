@@ -24,8 +24,7 @@
 			.$var["gq_hostname"]. "</td><td>" 
 			.$var["gq_mapname"]. "</td><td>"
 			.$var["gq_numplayers"]. "/" .$var["max_players"]. "</td><td>" 
-			.$var["gq_address"]. ":" 
-			.$var["gq_port_client"]. "</td><td>" 
+			.$var["gq_address"]. ":" .$var["gq_port_client"]. "</td><td>" 
 			.$status. "</td></tr>";
 		}
 ?>
