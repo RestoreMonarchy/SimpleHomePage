@@ -12,6 +12,7 @@ The only requirement for now is to have php above version 5.5 installed. All oth
 
 ## Documentation
 *Coming soon*
+Join my Discord if you have any questions http://discord.gg/dCHkuxS
 
 ## Addons
 *Coming soon*
