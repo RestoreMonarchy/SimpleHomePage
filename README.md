@@ -7,6 +7,9 @@ Simple configurable homepage for your website. Feel free to use it!
 * [JQuery](https://jquery.com/)
 * [Bootstrap-Growl](https://github.com/ifightcrime/bootstrap-growl)
 
+## Requirements
+The only requirement for now is to have php above version 5.5 installed. All other requirements are located in the vendor folder.
+
 ## Documentation
 *Coming soon*
 
