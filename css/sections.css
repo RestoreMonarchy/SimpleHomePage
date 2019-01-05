@@ -1,0 +1,41 @@
+#servers {
+    background-color: #161616;
+    color: #f8f9fa;
+}
+
+#store {
+    background-color: #262626;
+    color: white;
+}
+
+#store .btn-dark {
+    background-color: #5376a2;
+}
+
+#discord {
+    background-color: #161616;
+    color: #f8f9fa;
+}
+#discord img {
+    border-radius: 150px;
+    -webkit-transition: -webkit-transform .6s ease-in-out;
+    transition: transform .6s ease-in-out;
+}
+
+#discord img:hover {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+
+#discord .col {
+    padding-bottom: 10px;
+}
+
+
+.bg-dark {
+    background-color: #333333 !important;
+}
+
+footer .container{
+    padding-top: -100px !important;
+}

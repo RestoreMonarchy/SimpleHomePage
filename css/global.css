@@ -1,0 +1,33 @@
+html {
+    background-color: #1e1e1e;
+}
+
+@media (min-width: 1200px) {
+    .container{
+        max-width: 1500px;
+    }
+}
+
+.border {
+    width: 160px;
+    height: 5px;
+    background: white;
+    margin: 10px auto;
+    border: 0;
+}
+
+.bootstrap-growl {
+    color: white;
+    background-color: #5376a2;
+    border-color: #5376a2;
+    text-align: center;
+}
+
+.bootstrap-growl a {
+    color: white;
+    text-decoration: underline;
+}
+
+.text-white a {
+    color: white;
+}
