@@ -11,7 +11,7 @@ Simple configurable homepage for your website. Feel free to use it!
 The only requirement for now is to have php above version 5.5 installed. All other requirements are located in the vendor folder.
 
 ## Documentation
-*Coming soon*
+*Coming soon* \n
 Join my Discord if you have any questions http://discord.gg/dCHkuxS
 
 ## Addons
