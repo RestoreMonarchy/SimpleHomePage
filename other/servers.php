@@ -20,7 +20,12 @@
 			} else {
 				$status = '<center><i style="color: red;" class="fas fa-circle"></i></center>';
 			}
-			echo "<tr><th scope='row'><img class='game' src='img/" .$game. ".png'></th><td>" .$var["gq_hostname"]. "</td><td>" .$var["gq_mapname"]. "</td><td>"
-			.$var["gq_numplayers"]. "/" .$var["max_players"]. "</td><td>" .$var["gq_address"]. ":" .$var["gq_port_client"]. "</td><td>" .$status. "</td></tr>";
+			echo "<tr><th scope='row'><img class='game' src='img/" .$game. ".png'></th><td>" 
+			.$var["gq_hostname"]. "</td><td>" 
+			.$var["gq_mapname"]. "</td><td>"
+			.$var["gq_numplayers"]. "/" .$var["max_players"]. "</td><td>" 
+			.$var["gq_address"]. ":" 
+			.$var["gq_port_client"]. "</td><td>" 
+			.$status. "</td></tr>";
 		}
 ?>
