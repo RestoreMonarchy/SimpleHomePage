@@ -71,15 +71,10 @@
             <div style="overflow-x:auto;">
               <table class="table">
                 <thead>
-                  <th scope="col">Game</th>
-                  <th scope="col" class="text-center">Server Name</th>
-                  <th scope="col">Map</th>
-                  <th scope="col">Players</th>
-                  <th scope="col">IP:Port</th>
-                  <th scope="col">Status</th>
+                  <?php include("other\servers_h.php"); ?>
                 </thead>
                 <tbody>
-                  <?php include("other\servers.php") ?>
+                  <?php include("other\servers.php"); ?>
                 </tbody>
               </table>
             </div>        

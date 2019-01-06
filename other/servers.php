@@ -2,7 +2,7 @@
 		error_reporting(0);
 		require_once('vendor\gameq\src\GameQ\Autoloader.php');
 		require_once('config.php');
-	
+
 		$GameQ = new \GameQ\GameQ();
 		$GameQ->addServers($servers);
 		$GameQ->setOption('timeout', 5);

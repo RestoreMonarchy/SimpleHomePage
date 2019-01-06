@@ -7,6 +7,15 @@
 
     // Modify popup notification in js/notifications.js
 
+    $options = array(
+        array('value' => 'Game', 'position' => 'center'),
+        array('value' => 'Server Name', 'position' => 'center'),
+        array('value' => 'Map', 'position' => 'default'),
+        array('value' => 'Players', 'position' => 'default'),
+        array('value' => 'IP:Port', 'position' => 'default'),
+        array('value' => 'Status', 'position' => 'default')
+    );
+
     $servers = [
         [
         'type'    => 'unturned',
