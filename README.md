@@ -1,5 +1,5 @@
 # SimpleHomePage
-Simple configurable homepage for your website. Feel free to use it!
+Simple configurable homepage for your website. Modify the config.php file.
 
 ## Vendor
 * [Bootstrap 4.1](https://getbootstrap.com/)
