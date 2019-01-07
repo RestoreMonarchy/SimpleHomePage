@@ -71,10 +71,10 @@
             <div style="overflow-x:auto;">
               <table class="table">
                 <thead>
-                  <?php include("other\servers_h.php"); ?>
+                  <?php include("other/servers_h.php"); ?>
                 </thead>
                 <tbody>
-                  <?php include("other\servers.php"); ?>
+                  <?php include("other/servers.php"); ?>
                 </tbody>
               </table>
             </div>        
